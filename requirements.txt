@@ -1,2 +1,6 @@
 mljar-mercury
+bloxs
 matplotlib
+mplfinance
+pandas
+
