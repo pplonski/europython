@@ -1,12 +1,14 @@
 <center>
     
-![](https://github.com/pplonski/europython/raw/main/media/EP22logo.svg)
+![](https://github.com/pplonski/europython/raw/main/media/ep-logo.png)
     
-# Jak efektywnie dzielić się wynikami?
+# Mercury
 
-## Czyli zamiana notatnika Python na aplikację webową dla nieprogramistów
+## Build & share data web apps from Jupyter Notebook
+    
+### Piotr Płoński    
 
-### (EuroPython 2022)
+#### (EuroPython, 2022)
     
 </center>
 
